@@ -1,6 +1,8 @@
-# noaa-fisheries-globus
+# noaa-nmfs-globus-docs
 
-A repository for documentation related to the National Oceanic and Atmospheric Administration National Marine Fisheries (NOAA NMFS) Globus Collections. 
+A repository for documentation related to the National Oceanic and Atmospheric Administration National Marine Fisheries (NOAA NMFS) Globus Collections.
+
+These docs are built with `python mkdocs`. 
 
 # Collections
 

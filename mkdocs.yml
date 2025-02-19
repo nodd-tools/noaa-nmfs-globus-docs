@@ -1,6 +1,6 @@
-site_name: noaa-fisheries-globus
+site_name: noaa-nmfs-globus-docs
 
-repo_url: github.com/nodd-tools/noaa-fisheries-globus
+repo_url: https://github.com/nodd-tools/noaa-fisheries-globus
 
 theme:
   name: material
