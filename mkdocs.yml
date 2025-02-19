@@ -1,6 +1,6 @@
-site_name: TODO: your repository name
+site_name: noaa-fisheries-globus
 
-repo_url: TODO: your repository url
+repo_url: github.com/nodd-tools/noaa-fisheries-globus
 
 theme:
   name: material
@@ -25,5 +25,3 @@ nav:
   - Home: README.md
   - Contributing: CONTRIBUTING.md
   - Code of Conduct: CODE_OF_CONDUCT.md
-  - Code Reference:
-      - Some Module: api/some_module.md

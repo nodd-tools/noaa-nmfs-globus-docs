@@ -1,10 +1,14 @@
-# repo name
+# noaa-fisheries-globus
 
-Describe your project here
+A repository for documentation related to the National Oceanic and Atmospheric Administration National Marine Fisheries (NOAA NMFS) Globus Collections. 
 
-# Installation
+# Collections
 
-Put installation instructions here
+Please use the following pattern for naming new Collection/Endpoints:
+
+noaanmfs#<collection/endpoint name>
+
+As an example, the NOAA RDHPCS Globus has "noaardhpcs#hera" and "noaardhpcs#jet" to identify Collections/Endpoints attached to our Hera and Jet HPC clusters.
 
 # Contributing
 
